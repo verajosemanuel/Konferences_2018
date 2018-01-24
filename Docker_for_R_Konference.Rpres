@@ -1,0 +1,24 @@
+2017madrug
+========================================================
+author: Jose Manuel Vera
+date: 
+autosize: true
+
+¿Qué es Docker?
+========================================================
+
+ - Objetivo: eliminar la frase "en mi máquina funciona".
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```

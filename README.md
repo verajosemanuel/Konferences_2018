@@ -1,2 +1,2 @@
-# Konferences_2018
-My tech tal at Kschool Konferences in February 8 th 2018
+# 2017 tech talk: slides on Docker_for_R
+Slides for my tech talk about docker + R at Madrid R users Group
