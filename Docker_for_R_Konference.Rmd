@@ -10,30 +10,30 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## La vida de un usuario de R
+## Situaciones cotidianas
 
 - **"Nuevo proyecto."**
 
 
-## La vida de un usuario de R
+## Situaciones cotidianas
 
 - "Nuevo proyecto."
 - **"No recuerdo cómo instalé aquella librería que necesito para este paquete."**
 
-## La vida de un usuario de R
+## Situaciones cotidianas
 
 - "Nuevo proyecto."
 - "No recuerdo cómo instalé aquella librería que necesito para este paquete."
 - **"En windows."**
 
-## La vida de un usuario de R
+## Situaciones cotidianas
 
 - "Nuevo proyecto."
 - "No recuerdo cómo instalé aquella librería que necesito para este paquete."
 - "En windows."
 - **"¿Pasarlo a producción? ¿todo igual?"**
 
-## La vida de un usuario de R
+## Situaciones cotidianas
 
 - "Nuevo proyecto."
 - "No recuerdo cómo instalé aquella librería que necesito para este paquete."
@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - "¿Pasarlo a producción? ¿todo igual?"
 - **"PC nuevo? Estupendo!"**
 
-## La vida de un usuario de R
+## Situaciones cotidianas
 
 - "Nuevo proyecto."
 - "No recuerdo cómo instalé aquella librería que necesito para este paquete."
@@ -50,7 +50,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - "PC nuevo? Estupendo!"
 - **"Entornos compartidos."**
 
-## La vida de un usuario de R
+## Situaciones cotidianas
 
 - "Nuevo proyecto."
 - "No recuerdo cómo instalé aquella librería que necesito para este paquete."
@@ -224,7 +224,7 @@ Es la *"receta"* para construir una imagen desde cero.
 Entre otras muchas cosas.
 
 Existen imagenes para *casi* todo.
-"todas"" las distribuciones Linux (Ubuntu , CentOS, Debian), entornos de base de datos, tanto **No Sql** (Redis, MongoDB, Cassandra) como **Si Sql** (Mysql, postgreSQL), entornos de programación, servicios de todo tipo....
+"Todas?" las distribuciones Linux (Ubuntu, CentOS, Debian), entornos de base de datos, tanto **No Sql** (Redis, MongoDB, Cassandra) como **Si Sql** (Mysql, postgreSQL), entornos de programación, servicios de todo tipo....
 
 Recomendación: usar imágenes *"oficiales"*
 
@@ -498,7 +498,7 @@ https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/
 
 ## Algunas imágenes interesantes
 
-appsecco/data-science-toolbox
+r/datascienceworkshops/data-science-at-the-command-line/
 
 kaggle/rstats
 
@@ -506,7 +506,7 @@ kaggle/julia
 
 kaggle/python
 
-/r/rocker/ropensci/
+r/rocker/ropensci/
 
 Jupyter:  https://www.dataquest.io/blog/docker-data-science/
 
@@ -533,11 +533,9 @@ Desarrollo desde cualquier plataforma origen para cualquier plataforma destino.
 <img src="images/end.gif" alt="end" style="width: 400px;"/>
 
 
-Twitter: @verajosemanuel
+https://ropensci.org/
 
-DockerHub: https://hub.docker.com/u/jvera/
-
-Blogdown: http://jvera.rbind.io
+rOpenSpain : hola@ropenspain.es
 
 
 ## Gracias!
