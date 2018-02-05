@@ -1,6 +1,6 @@
 ---
 title: "Entornos Reproducibles para Analítica"
-subtitle: "R con Docker"
+subtitle: "R + Docker : Rocker <br> Kschool Data Konferences 2018 "
 author: "Jose Manuel Vera Oteo"
 date: "8 de Febrero de 2018"
 output: ioslides_presentation
@@ -12,53 +12,53 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Situaciones cotidianas
 
-- **"Nuevo proyecto."**
+- **"Inicio un nuevo proyecto."**
 
 
 ## Situaciones cotidianas
 
-- "Nuevo proyecto."
+- "Inicio un nuevo proyecto."
 - **"No recuerdo cómo instalé aquella librería que necesito para este paquete."**
 
 ## Situaciones cotidianas
 
-- "Nuevo proyecto."
+- "Inicio un nuevo proyecto."
 - "No recuerdo cómo instalé aquella librería que necesito para este paquete."
 - **"En windows."**
 
 ## Situaciones cotidianas
 
-- "Nuevo proyecto."
+- "Inicio un nuevo proyecto."
 - "No recuerdo cómo instalé aquella librería que necesito para este paquete."
 - "En windows."
-- **"¿Pasarlo a producción? ¿todo igual?"**
+- **"Vamos a pasarlo todo a producción."**
 
 ## Situaciones cotidianas
 
-- "Nuevo proyecto."
+- "Inicio un nuevo proyecto."
 - "No recuerdo cómo instalé aquella librería que necesito para este paquete."
 - "En windows."
-- "¿Pasarlo a producción? ¿todo igual?"
-- **"PC nuevo? Estupendo!"**
+- "Vamos a pasarlo todo a producción."
+- **"Equipo nuevo. A instalar/configurar todo."**
 
 ## Situaciones cotidianas
 
-- "Nuevo proyecto."
+- "Inicio un nuevo proyecto."
 - "No recuerdo cómo instalé aquella librería que necesito para este paquete."
 - "En windows."
-- "¿Pasarlo a producción? ¿todo igual?"
-- "PC nuevo? Estupendo!"
-- **"Entornos compartidos."**
+- "Vamos a pasarlo todo a producción."
+- "Equipo nuevo. A instalar/configurar todo."
+- **"Entornos compartidos. Equipos de trabajo."**
 
 ## Situaciones cotidianas
 
-- "Nuevo proyecto."
+- "Inicio un nuevo proyecto."
 - "No recuerdo cómo instalé aquella librería que necesito para este paquete."
 - "Es que en windows es muy complicado (o no funciona)."
 - "¿Pasarlo a producción?. Claro. Muy fácil...(caveats)"
-- "PC nuevo? Estupendo!"
-- "Entornos compartidos."
-- **Desarrollo en otra plataforma.**
+- "Equipo nuevo. A instalar/configurar todo."
+- "Entornos compartidos. Equipos de trabajo."
+- **"Desarrollo en otra plataforma. Burocracia."**
 
 - **....y la excusa favorita......**
 
@@ -106,6 +106,17 @@ Algunos paquetes o el mismo Rstudio intentan paliar el problema o alguna de sus 
 - **switchr**
 
 Seguimos sin solucionar el problema. Son soluciones a posteriori.
+
+## ¿cómo llego a Docker?
+
+Trabajo de varios años en equipos multidisciplinares de sistemas, principalmente en start-ups, con énfasis en:
+
+- reproducibilidad
+- despliegue sencillo y rápido
+- fácil de compartir
+- fácil de enseñar
+- sin costes asociados
+- evitando la deuda técnica
 
 ## ¿Qué es Docker?
 
@@ -262,8 +273,8 @@ https://hub.docker.com/u/rocker/
 Buscar/Obtener una imagen
 
 ```
-docker search rstudio
-docker pull rocker/rstudio
+docker search ropensci --no-trunc
+docker pull rocker/ropensci
 
 ```
 Generar un contenedor a partir de la imagen
@@ -477,6 +488,34 @@ https://liftr.me/
 
 - *CoreOS*: Sistema operativo dedicado para aplicaciones basadas en contenedores
 
+
+## Algunas imágenes interesantes
+
+r/datascienceworkshops/data-science-at-the-command-line/
+
+kaggle/rstats
+
+kaggle/julia
+
+kaggle/python
+
+r/rocker/ropensci/
+
+Jupyter:  https://www.dataquest.io/blog/docker-data-science/
+
+
+#  
+<center><img src="images/dsacl.png" alt="Data Science Command Line" style="width: 400px;"/></center>
+
+
+#  
+<center><img src="images/ropensci.PNG" alt="rOpenSci" style="width: 800px;"/></center>
+
+# rOpenSpain
+
+hola@ropenspain.es
+
+
 ## Enlaces
 
 https://github.com/veggiemonk/awesome-docker
@@ -495,47 +534,28 @@ https://travis-ci.org/
 
 https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/
 
-
-## Algunas imágenes interesantes
-
-r/datascienceworkshops/data-science-at-the-command-line/
-
-kaggle/rstats
-
-kaggle/julia
-
-kaggle/python
-
-r/rocker/ropensci/
-
-Jupyter:  https://www.dataquest.io/blog/docker-data-science/
-
-
 ## Notas finales
 
-1. **Rapidez y utilidad**. 
+  - **Rapidez y utilidad**. 
 
 Muy útil para el desarrollo. Ahorra mucho tiempo en configuraciones. Con una pequeña inversión inicial de tiempo los beneficios son tangibles.
 
-2. **Compartir**. 
+  - **Compartir**. 
 
 Desplegar desde cualquier lugar con los registros y los Dockerfiles. Repositorio común de configuraciones para diferentes funcionalidades.
 
-3. **Multiplataforma**. 
+  - **Multiplataforma**. 
 
 Desarrollo desde cualquier plataforma origen para cualquier plataforma destino. 
 
-4. **NUNCA** aplicaciones críticas en producción. (de momento)
+  - Aplicaciones críticas en producción. (de momento no)
 
 ## Gracias!
 
 
-<img src="images/end.gif" alt="end" style="width: 400px;"/>
+<center><img src="images/end.gif" alt="end" style="width: 400px;"/></center>
 
 
-https://ropensci.org/
-
-rOpenSpain : hola@ropenspain.es
 
 
 ## Gracias!
