@@ -89,7 +89,7 @@ quedan obsoletas y hay que actualizarlas cada cierto tiempo.
 
 - **Lo documentamos *TODO*.** 
 
-<img src="images/lol.gif" alt="lol" style="width: 400px;"/>
+<div align="center"><img src="images/lol.gif" alt="lol" style="width: 400px;"/></center>
 
 ## Soluciones de R
 
@@ -473,7 +473,7 @@ https://liftr.me/
 - Estad atentos. El proyecto evoluciona muy/demasiado rápido.
 - **NUNCA para sistemas críticos en producción.**
 
-<img src="images/bomb.gif" alt="bomb" style="width: 400px;"/>
+<div align="center"><img src="images/bomb.gif" alt="bomb" style="width: 400px;"/></div>
 
 
 ## Cosas (un poco) avanzadas
@@ -561,7 +561,7 @@ Desarrollo desde cualquier plataforma origen para cualquier plataforma destino.
 ## Gracias!
 
 
-<img src="images/end.gif" alt="end" style="width: 400px;"/>
+<center><img src="images/end.gif" alt="end" style="width: 400px;"/></center>
 
 
 Twitter: @verajosemanuel
