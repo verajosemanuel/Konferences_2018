@@ -1,0 +1,23 @@
+---
+title: "Demostración R con Docker"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Este es un documento generado con Rstudio ejecutándose en un contenedor Docker. Posteriormente es renderizado por otro contenedor con Shiny server.
+
+## Ejemplo de plot con ggplot2
+
+
+```{r pressure, echo=FALSE}
+library(ggplot2)
+histogram <- ggplot(data=iris, aes(x=Sepal.Width))
+histogram + geom_histogram(binwidth=0.2, color="black", aes(fill=Species)) + 
+  xlab("Sepal Width") +  ylab("Frequency") + ggtitle("Histogram of Sepal Width")
+
+plot(pressure)
+```
+
