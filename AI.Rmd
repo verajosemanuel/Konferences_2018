@@ -79,15 +79,28 @@ class: center, middle
 # Google
 
 IA completa google. El buscador responde. Lectura de libros.
+keniatas clasifican objetos para los coches
+https://www.bbc.co.uk/news/amp/technology-46055595?__twitter_impression=true
+---
+# condiciones
+
+1. creatividad (cuadros)
+2. inteligencia fluida(adaptacion)/cristalizada(historia) (juegos del Go y Ajedrez)
+3. emocion 
+4. conciencia? (basilisco de roko)
 
 ---
+# test de turing?
+(chatbot nazi)
 
 # si la IA apareciese
 
 si la IA algún dia apareciese, no sabríamos reconocerla. Cometería errores, pero somos emociones moduladas por la razon, nos equivocamos, por tanto...
 
 ---
-
+# arte
+https://elpais.com/cultura/2018/10/26/actualidad/1540577952_910752.html
+https://es.gizmodo.com/una-inteligencia-artificial-pinta-un-nuevo-cuadro-de-re-1769869684
 Sí el cerebro fuese tan sencillo como para que lo pudiésemos comprender seríamos tan estúpidos que seríamos incapaces de hacerlo
 
 ---
@@ -99,6 +112,7 @@ Pigeons as a Service
 entre el 80% y el 99% de accuracy. el 80% en un mes. Un enfermero tarda 6 meses
 https://www.youtube.com/watch?v=OWUDqmlY19A
 https://www.slideshare.net/juantomas/databeers-madrid-2017-paas-pigeons-as-a-service
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357
 
 ---
 
