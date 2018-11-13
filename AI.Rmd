@@ -1,6 +1,6 @@
 ---
 title: "Inteligencia Artificial"
-subtitle: "\u2694 <br/>Notas desde ambos lados de la barrera"  
+subtitle: "\u2694 <br/>Notas desde ambos lados"  
 author: "Jose Manuel Vera"
 date: '`r Sys.Date()`'
 output:
@@ -23,20 +23,24 @@ solarized_dark(
 ```
 
 
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
-
-???
-
-Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
-
 ---
 class: inverse, center, middle
 
-# Inteligencia
+# Inteligencia Artificial
 
 ---
+class: center, middle
+![termnator](media/terminator.jpg)
 
-# Hello World
+---
+class: center, middle
+![her](media/her.jpg)
+j
+---
+class: inverse, center, middle
+# ¿Qué es Inteligencia?
+
+---
 
 Medidas de la inteligencia - primera guerra mundial - test army alfa(lectores)/test army beta (ni leer ni escribir)
 Posición del individuo en la población (muestra) en función de la edad
