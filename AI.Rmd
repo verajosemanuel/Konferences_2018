@@ -22,15 +22,13 @@ solarized_dark(
 )
 ```
 
-
----
 class: inverse, center, middle
 
-# Inteligencia Artificial
+# ¿Qué es Inteligencia Artificial?
 
 ---
 class: center, middle
-![termnator](media/terminator.jpg)
+![terminator](media/terminator.jpg)
 
 ---
 class: center, middle
@@ -42,51 +40,182 @@ class: inverse, center, middle
 
 ---
 
-Medidas de la inteligencia - primera guerra mundial - test army alfa(lectores)/test army beta (ni leer ni escribir)
-Posición del individuo en la población (muestra) en función de la edad
-joke: eviten dispararse en el pie. Se disparaban en el pie o disparaban al oficial
+# Más allá del concepto
 
-algebra matricial, analisis factorial. Correlación, un factor general G, multifactorial tantos como factores se midan
-MMPI
+Las mediciones determinan la posición del individuo en la población en función de la edad y su desempeño.
 
-segunda guerra mundial. baterias de aptitud múltiple o pruebas diferenciales, factores mucho más específicos para tareas especializadas pilotos, artilleros, operadores de radio Aircrew classification battery, Army general classification, Armed forces qualification test: army standard scores
-
-- sesgos culturales, racismo, conformismo social
-
-- ultimamente . analisis multivariados
+<img src="media/normal.png" width="800">
 
 --
 
- - Fodor. Modularidad. fisiológicamente parece que existen módulos específicos. 
- - Gardner. Inteligencias múltiples. Lengua, matematica, espacial, musical, cinestésica, intrapersonal, interpersonal, +naturalista
- - Goleman: inteligencia emocional, inteligencia social, inteligencia ecológica
+Ni siquiera es estable en el tiempo.
+
+---
+# Más allá del concepto
+
+### Primera Guerra Mundial 
+
+ - test army α
+ - test army β
+
+--
+ 
+Avances en algebra matricial y analisis factorial. Correlación, un factor general G, y tantos como factores se midan
+
+---
+# Más allá del concepto
+
+### Segunda Guerra Mundial.
+
+ - Baterias de aptitud múltiple o pruebas diferenciales que miden factores mucho más específicos para tareas especializadas de modo que se pueden seleccionar pilotos, artilleros, operadores de radio...
+
+--
+
+ - Army Standard Scores: Aircrew classification battery + Army general classification + Armed forces qualification test
+
+
+---
+# Problemas
+
+  - Sesgos Culturales
+  
+  - Racismo?
+  
+  - Conformismo Social
+  
+--
+
+### Paradojas de la Guerra ......
+
+---
+
+## El Concepto
+
+ - Jerry Fodor y la Modularidad fisiológica (1980): 
+                parece que existen módulos específicos por tarea.
+ .pull-right[![Fodor](media/fodor.jpg)] 
+
+---
+
+## El Concepto
+
+ - Howard Gardner y las Inteligencias múltiples (1983):
+ 
+    Lengua, matemática, espacial, musical, cinestésica, intrapersonal/interpersonal, +naturalista
+    
+  .pull-right[![Gardner](media/gardner.jpg)] 
+
+---
+
+## El Concepto
+
+ - Daniel Goleman: 
+        inteligencia emocional (1995), social y ecológica
+ 
+   .pull-right[![Goleman](media/goleman.jpg)]
+   
+---
+class: inverse, center, middle
+## Paradoja de la Inteligencia
+
+_Sí el cerebro fuese tan sencillo como para que lo pudiésemos comprender seríamos tan estúpidos que seríamos incapaces de hacerlo_
+
+---
+class: inverse, center, middle
+
+# Entonces...
+# ¿Qué es Inteligencia Artificial?
+
+---
+## ¿Qué es Inteligencia Artificial?
+
+ - La respuesta que demos estara siempre condicionada por el proposito, la ideologia y los temores.
+
+--
+
+ - Google y la IA Completa
+ 
+--
+
+ -  Podemos hacer el camino a la inversa: ¿Qué existe que se adapte a lo que consideramos inteligencia?
+ 
+---
+## Capacidad Matemática
+
+   .pull-right[![calculadora](media/calculadora.jpg)] 
+
+---
+## Capacidad Matemática
+
+![excel](media/excel.png)
+
+---
+## Capacidad Matemática
+
+![scriptcalc](media/calculator.png)
+
+---
+## Capacidad Linguística
+
+ - Reconocimiento del texto escrito
+ 
+--
+
+ - Clasificacion de los documentos por temas
+ 
+--
+
+ - Analisis del sentimiento del discurso
+ 
+--
+
+ - Gramática Generativa: Creación de discurso inteligible
+
+
+---
+## Capacidad Espacial
+
+![car](media/car.jpg)
 
 ---
 class: center, middle
+![car2](media/kenya.PNG)
+
+---
+## Capacidad Espacial
+
+![cars2](media/cars2.jpg)
+
+.footnote[
+[1] Self Driven Cars taught by poor kenyans] https://www.bbc.co.uk/news/amp/technology-46055595
+---
+## Capacidad Cinestésica
 
 ![pk](media/PK1.gif)
 
 .footnote[
-[1] Boston Dynamics. Atlas Parkour](https://www.youtube.com/watch?v=QCTSrJscmBg)
-
+[2] Boston Dynamics. Atlas Parkour]https://www.youtube.com/watch?v=QCTSrJscmBg
 
 ---
-class: center, middle
+## Capacidad Cinestésica
+
 
 ![pk](media/parkour2.gif)
 
 .footnote[
-[2] Boston Dynamics. Atlas BackFlip](https://www.youtube.com/watch?v=fRj34o4hN4I)
-
+[3] Boston Dynamics. Atlas BackFlip]https://www.youtube.com/watch?v=fRj34o4hN4I
 
 ---
-# Google
+## Objeción
 
-IA completa google. El buscador responde. Lectura de libros.
-keniatas clasifican objetos para los coches
-https://www.bbc.co.uk/news/amp/technology-46055595?__twitter_impression=true
+ - Hacen aquello para lo que han sido programados.
+ 
+--
+ 
+ - No presentan creatividad. No tienen capaciad de crear algo nuevo.
+ 
 ---
-# condiciones
+## Capacidad Musical
 
 1. creatividad (cuadros)
 2. inteligencia fluida(adaptacion)/cristalizada(historia) (juegos del Go y Ajedrez)
@@ -105,7 +234,7 @@ si la IA algún dia apareciese, no sabríamos reconocerla. Cometería errores, p
 # arte
 https://elpais.com/cultura/2018/10/26/actualidad/1540577952_910752.html
 https://es.gizmodo.com/una-inteligencia-artificial-pinta-un-nuevo-cuadro-de-re-1769869684
-Sí el cerebro fuese tan sencillo como para que lo pudiésemos comprender seríamos tan estúpidos que seríamos incapaces de hacerlo
+
 
 ---
 class: inverse, middle, center
