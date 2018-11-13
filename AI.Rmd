@@ -78,8 +78,12 @@ Avances en algebra matricial y analisis factorial. Correlación, un factor gener
 # Problemas
 
   - Sesgos Culturales
-  
+
+--
+
   - Racismo?
+  
+--
   
   - Conformismo Social
   
@@ -118,7 +122,7 @@ Avances en algebra matricial y analisis factorial. Correlación, un factor gener
 class: inverse, center, middle
 ## Paradoja de la Inteligencia
 
-_Sí el cerebro fuese tan sencillo como para que lo pudiésemos comprender seríamos tan estúpidos que seríamos incapaces de hacerlo_
+**_Sí el cerebro fuese tan sencillo como para que lo pudiésemos comprender seríamos tan estúpidos que seríamos incapaces de hacerlo_**
 
 ---
 class: inverse, center, middle
@@ -131,11 +135,14 @@ class: inverse, center, middle
 
  - La respuesta que demos estara siempre condicionada por el proposito, la ideologia y los temores.
 
---
+---
+## ¿Qué es Inteligencia Artificial?
 
- - Google y la IA Completa
- 
---
+- Conferencia de Darthmouth en 1956 (**_McCarthy, Minsky, Shannon y Rochester_**)
+![dartmouth](media/dartmouth.png)
+
+---
+## ¿Qué es Inteligencia Artificial?
 
  -  Podemos hacer el camino a la inversa: ¿Qué existe que se adapte a lo que consideramos inteligencia?
  
@@ -175,6 +182,8 @@ class: inverse, center, middle
 ---
 ## Capacidad Espacial
 
+_DARPA Grand Challenge (2004): 1 millón de dólares. Ruta de 180 kilómetros por terreno accidentado. NInguno pasó de 10 Km. Al año siguiente lo lograron 5_
+
 ![car](media/car.jpg)
 
 ---
@@ -199,7 +208,6 @@ class: center, middle
 ---
 ## Capacidad Cinestésica
 
-
 ![pk](media/parkour2.gif)
 
 .footnote[
@@ -213,47 +221,125 @@ class: center, middle
 --
  
  - No presentan creatividad. No tienen capaciad de crear algo nuevo.
- 
+
 ---
 ## Capacidad Musical
 
-1. creatividad (cuadros)
-2. inteligencia fluida(adaptacion)/cristalizada(historia) (juegos del Go y Ajedrez)
-3. emocion 
-4. conciencia? (basilisco de roko)
+![Bach](media/deepbach.PNG)
+.footnote[
+[4] Deep Bach] https://www.abc.es/tecnologia/informatica/abci-inteligencia-artificial-crea-musica-estilo-bach-201801242152_noticia.html
 
 ---
-# test de turing?
-(chatbot nazi)
+## Capacidad Artística
 
-# si la IA apareciese
-
-si la IA algún dia apareciese, no sabríamos reconocerla. Cometería errores, pero somos emociones moduladas por la razon, nos equivocamos, por tanto...
+![Rembrandt](media/rembrandt.PNG)
+.footnote[
+[5] Rembrandt IA] https://es.gizmodo.com/una-inteligencia-artificial-pinta-un-nuevo-cuadro-de-re-1769869684
 
 ---
-# arte
-https://elpais.com/cultura/2018/10/26/actualidad/1540577952_910752.html
-https://es.gizmodo.com/una-inteligencia-artificial-pinta-un-nuevo-cuadro-de-re-1769869684
+## Capacidad Artística
 
+![obra](media/obra.png)
+.footnote[
+[6] La IA planta cara al arte] https://elpais.com/cultura/2018/10/26/actualidad/1540577952_910752.html
+
+---
+## Objeción
+
+ - No aprenden por sí solos.
+ 
+--
+ 
+ - Solamente "imitan".
+
+---
+## Aprendizaje autónomo
+
+**Alpha Go / Alpha Zero**
+
+![alphaGo](media/ajedrez1.png)
+
+
+---
+# Alpha Go
+
+ - Set de Training de Alpha Go v1= 30 millones de partidas (1 mes)
+ 
+--
+
+ - Set de Training de Alpha Go v2=  5 millones de partidas (70 horas)
+
+--
+ 
+ - **Go Zero : **
+    - **sin set de training. Jugaba contra sí mismo. (4 horas)**
+
+---
+# Redes Neuronales
+
+![neurona](media/brainneuron.png)
+---
+# Redes Neuronales
+
+.pull-left[![dnn](media/DNN.png)] .pull-right[![cnn](media/CNN.png)]
+![rnn](media/RNN.jpg)
+
+---
+# Redes Neuronales
+
+![brain](media/Neurons2.jpg)
+
+---
+# Redes Neuronales
+![mosca](media/cerebromosca.jpg)
 
 ---
 class: inverse, middle, center
 
-# PAAS
+**_Métodos estadísticos simples con suficiente volumen de datos, son capaces de aparentar comprensión e intuición._**
 
-Pigeons as a Service
-entre el 80% y el 99% de accuracy. el 80% en un mes. Un enfermero tarda 6 meses
+---
+class: middle, center
+
+![paas](media/paas2.jpg)
+
+---
+# Palomas Expertas
+
+ - Una paloma consigue el 80% de accuracy en un mes. Un enfermero tarda 6 meses de entrenamiento.
+
+--
+
+ - Un cluster de palomas consigue el 99%.
+ 
+
+Más referencias: 
+
 https://www.youtube.com/watch?v=OWUDqmlY19A
+
 https://www.slideshare.net/juantomas/databeers-madrid-2017-paas-pigeons-as-a-service
+
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357
 
 ---
+class: inverse, middle, center
+# Paradoja de la Inteligencia Artifical
 
+**Cuando algo que se considera Inteligencia Artificial, es alcanzado, deja de considerarse Inteligencia Artificial**
+
+---
+# La Singularidad
+
+**_“Actualmente, las máquinas resuelven problemas de acuerdo con los principios que hemos establecidos en ellas. Dentro de poco quizá aprendamos a ponerlas a trabajar en problemas específicos de mejorar su capacidad de resolver problemas. Una vez traspasado cierto umbral, esto nos llevaría a una espiral de aceleración y sería difícil perfeccionar un regulador fiable para refrenarlo”._**
+
+                                                              Marvin Minsky
+ 
+---
 # Principio antropico fuerte aplicable a la inteligencia artificial
 
 creemos que las máquinas inteligentes si lo son deben serlo como nosotros pero este mismo hecho nos aterroriza a algunos/muchos.
 
-Una máquina  que juega muy bien al ajedrez es solamente una máquina que juega muy bien al ajedrez
+Una máquina que juega muy bien al ajedrez es solamente una máquina que juega muy bien al ajedrez
 
  El chatbot nazi
 Pero si son no humanas....moral...leyes de la robótica asimovianas
