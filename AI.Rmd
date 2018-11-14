@@ -56,6 +56,9 @@ Ni siquiera es estable en el tiempo.
 ### Primera Guerra Mundial 
 
  - test army α
+ 
+--
+
  - test army β
 
 --
@@ -67,15 +70,22 @@ Avances en algebra matricial y analisis factorial. Correlación, un factor gener
 
 ### Segunda Guerra Mundial.
 
- - Baterias de aptitud múltiple o pruebas diferenciales que miden factores mucho más específicos para tareas especializadas de modo que se pueden seleccionar pilotos, artilleros, operadores de radio...
+ - Baterias de aptitud múltiple o pruebas diferenciales.
+ 
+--
+
+ - Se miden factores mucho más específicos para tareas especializadas de modo que se pueden seleccionar pilotos, artilleros, operadores de radio...
 
 --
 
- - Army Standard Scores: Aircrew classification battery + Army general classification + Armed forces qualification test
+ - Army Standard Scores:
+    - Aircrew classification battery
+    - Army general classification
+    - Armed forces qualification test
 
 
 ---
-# Problemas
+# Críticas
 
   - Sesgos Culturales
 
@@ -130,8 +140,7 @@ class: inverse, center, middle
 
 **_"Somos emociones, y tenemos personas."_**
 
-          Mariano Rajoy
-
+         
 ---
 class: inverse, center, middle
 
@@ -152,12 +161,12 @@ class: inverse, center, middle
 ---
 ## ¿Qué es Inteligencia Artificial?
 
- -  Podemos hacer el camino a la inversa: ¿Qué existe que se adapte a lo que consideramos inteligencia?
+ -  Vamos a hacer el camino a la inversa: ¿Qué existe que se ajuste a lo que consideramos inteligencia?
  
 ---
 ## Capacidad Matemática
 
-   .pull-right[![calculadora](media/calculadora.jpg)] 
+<div align="center"><img src="media/calculadora.png"></div> 
 
 ---
 ## Capacidad Matemática
@@ -173,7 +182,11 @@ class: inverse, center, middle
 ## Capacidad Linguística
 
  - Reconocimiento del texto escrito
+ - Reconocimiento + Traducción
  
+   .pull-right[![OVR](media/ocrtr.png)]
+   
+
 --
 
  - Clasificacion de los documentos por temas
@@ -419,7 +432,7 @@ Antropocentrismo. Nos creemos especiales y nos aferramos a la idea de que el pen
 
 - **¿Puede “sentir” una IA?**
 
-Es sencillo construir un robot que mustre sensación de dolor, llore o diga que le duele. ¿siente dolor? ¿Pueden sentir las máquinas? ¿es importante? La cuestión es si llegado el momento se reproducen por sí mismas, podrían heredar la Tierra, independientemente de nuestro papel en ello. La segunda evolución.
+Es sencillo construir un robot que muestre sensación de dolor, llore o diga que le duele. ¿siente dolor? ¿Pueden sentir las máquinas? ¿es importante? 
 
 ---
 class: inverse, middle, center
@@ -430,6 +443,8 @@ class: inverse, middle, center
 
 - **¿Puede una entidad no humana involucrarse en acuerdos y contratos?**
 
+--
+
 Lo hacen desde el emperador Bizantino Justiniano, en el siglo V .(Corpus). Críticas sobre el sesgo.
     
 --
@@ -439,6 +454,7 @@ Lo hacen desde el emperador Bizantino Justiniano, en el siglo V .(Corpus). Crít
 Si afectan a bienes o personas deben tener recursos asociados para compensar en caso de perjuicios. Imaginemos que pueden diseñar estrategias para el negocio, hacer inversiones, y por tanto, en un futuro lejano, adquirirse a sí mismos. (que por cierto era uno de los modos en que los esclavos podían lograr la libertad)
 
 ---
+# Efectos Jurídicos
 
 - **¿Puede cometer un delito una IA?**
 
@@ -457,10 +473,11 @@ A los psicópatas bajo proceso se les juzga por el hecho de ser conscientes de q
 A veces ser moral implica transgredir la norma. Es crítico desarrollar e implementar regulaciones morales aplicables a una IA para guiar su comportamiento.
 
 ---
+# Efectos Económicos
 
 - **¿Nos quitarán el trabajo?**
 
-A los radiólogos si no lo hace una paloma lo hará una IA.
+Las palomas le quitarán el trabajo a los Radiólogos. (si no lo hace una IA)
 
 --
 
@@ -470,7 +487,7 @@ Hace siglo y medio, todo el mundo vivía del trabajo en la tierra, mientras que 
 
 --
 
-La IA es sólo otro avance en la automatización. Pero su efecto es multiplicativo. Aproximadamente el 65% de los trabajos desaparecerán en las próximas décadas. Afecta menos a las labores intelectuales que las manuales, y mucho más a las rutinarias.
+La IA es sólo otro avance en la automatización. Pero su efecto es multiplicativo. Aproximadamente el 65% de los trabajos desaparecerán en las próximas décadas. Afecta menos a las labores intelectuales que las manuales, y mucho más a las rutinarias. (Estudio de la Universidad de Oxford https://www.bbc.com/mundo/noticias-38930099)
 
 --
 
@@ -481,9 +498,9 @@ Nuestra economía está basada en el trabajo. Si este no es necesario......
 
 **En el momento en que las máquinas se puedan "rehacer" a sí mismas. Se producirá la explosión de la inteligencia.** 
 
-Futurismo. Ray Kurzweil: director de ingeniería de Google en 2012 supone que ocurrirá en 2045. Hasta ahora las mejoras han sido sobre todo en hardware y disponibilidad de datos en formato procesable. Poco probable a corto plazo, y será advertida antes.
+`Futurismo` (Ray Kurzweil), director de ingeniería de Google en 2012 supone que ocurrirá en 2045. Hasta ahora las mejoras han sido sobre todo en hardware y disponibilidad de datos en formato procesable. Poco probable a corto plazo, y será advertida antes.
 
-**Transhumanismo**: diseñaremos repuestos para nuestros propios órganos. ¿qué porcentaje de repuestos nos alejará de la categoría humana?
+`Transhumanismo`, diseñaremos repuestos para nuestros propios órganos. ¿qué porcentaje de repuestos nos alejará de la categoría humana?
 
 ---
 # Especulaciones más allá...
