@@ -140,6 +140,8 @@ class: inverse, center, middle
 
 **_"Somos emociones, y tenemos personas."_**
 
+                       Mariano Rajoy
+
          
 ---
 class: inverse, center, middle
@@ -301,13 +303,43 @@ class: center, middle
 ¿Cómo podemos entender cómo funciona un cerebro real?
 
 ![neurona](media/brainneuron.png)
+
+
+McCulloch y Pitts (1943) postulan la posibilidad de que modelar matemáticamente el cerebro pudiese conducir a avances en el tratamiento de trastornos psiquiátricos. (No existen computadoras programables en ese momento.)
+
 ---
 # Redes Neuronales
 
-McCulloch y Pitts (1943) postulan la posibilidad de que modelar matemáticamente el cerebro pudiese conducir a avances en el tratamiento de trastornos psiquiátricos. No existen computadoras programables en ese momento.
+**DNN**
 
-.pull-left[![dnn](media/DNN.png)] .pull-right[![cnn](media/CNN.png)]
-<center><img src=media/RNN.jpg></center>
+![dnn](media/DNN.png)
+
+---
+# Redes Neuronales
+
+**CNN**
+
+![cnn](media/CNN.jpg)
+
+---
+# Redes Neuronales
+
+**RNN**
+
+![rnn](media/RNN.jpg)
+
+---
+# Redes Neuronales
+
+**GANs**
+
+![gans](media/gan1.png)
+
+
+---
+# Redes Neuronales
+
+![ganvideo](media/gans.gif)
 
 ---
 # Redes Neuronales
@@ -316,6 +348,7 @@ McCulloch y Pitts (1943) postulan la posibilidad de que modelar matemáticamente
 
 ---
 # Redes Neuronales
+
 ![mosca](media/cerebromosca.jpg)
 
 ---
@@ -391,16 +424,33 @@ class: inverse, middle, center
 # Sin embargo....
 
 ---
+# Sin embargo....
+
+![estupidez](media/stophate.jpg)
+
+---
+# Sin embargo....
+
+![turtle](media/turtle.gif)
+
+---
+# Sin embargo....
+
+![turtle](media/turtle.gif)
+
+---
 # Ya se dijo...
 
 **_“Actualmente, las máquinas resuelven problemas de acuerdo con los principios que hemos establecidos en ellas. Dentro de poco quizá aprendamos a ponerlas a trabajar en problemas específicos de mejorar su capacidad de resolver problemas. Una vez traspasado cierto umbral, esto nos llevaría a una espiral de aceleración y sería difícil perfeccionar un regulador fiable para refrenarlo”._**
 
                                                             Marvin Minsky
-
-
 ---
 # Cuestiones y provocaciones
 
+![turtle](media/aibot.png)
+
+---
+# Cuestiones y provocaciones
 - **¿Puede una IA llegar a ser más inteligente que un ser humano?**
 
 Si, pero en formas restringidas.
