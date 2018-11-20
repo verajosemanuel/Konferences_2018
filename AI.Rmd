@@ -1,7 +1,7 @@
 ---
 title: "Inteligencia Artificial"
 subtitle: "\u2694 <br/>Notas desde ambos lados"  
-author: "Jose Manuel Vera"
+author: "Jose Manuel Vera<br/>@verajosemanuel"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
@@ -309,6 +309,18 @@ McCulloch y Pitts (1943) postulan la posibilidad de que modelar matemáticamente
 
 ---
 # Redes Neuronales
+ - 86 mil millones de neuronas 
+ - 8 tipos según diversa química
+ - 6 tipos según morfología y funcionalidad (hasta 27 tipos según otras clasificaciones)
+
+![brain](media/Neurons2.jpg)
+
+---
+# Redes Neuronales
+
+![mosca](media/cerebromosca.jpg)
+---
+# Redes Neuronales
 
 **DNN**
 
@@ -341,15 +353,6 @@ McCulloch y Pitts (1943) postulan la posibilidad de que modelar matemáticamente
 
 ![ganvideo](media/gans.gif)
 
----
-# Redes Neuronales
-
-![brain](media/Neurons2.jpg)
-
----
-# Redes Neuronales
-
-![mosca](media/cerebromosca.jpg)
 
 ---
 class: inverse, middle, center
@@ -561,7 +564,7 @@ Demasiado remoto y especulativo. Pero concentra mucha atención. Las máquinas p
 
 **¿Pueden volverse locas las IA?**
 
-En realidad son peores los efectos secundarios no planificados. Veasé el automóvil.
+En realidad son peores los efectos secundarios no planificados. Veasé el automóvil. Estupidez Artificial.
 
 **¿Podremos copiarnos a una computadora?**
 
