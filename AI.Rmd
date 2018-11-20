@@ -326,6 +326,10 @@ McCulloch y Pitts (1943) postulan la posibilidad de que modelar matemáticamente
 
 ![dnn](media/DNN.png)
 
+--
+
+Textos e Imágenes. Muy pesada.
+
 ---
 # Redes Neuronales
 
@@ -333,12 +337,20 @@ McCulloch y Pitts (1943) postulan la posibilidad de que modelar matemáticamente
 
 ![cnn](media/CNN.jpg)
 
+--
+
+Detección de patrones. Procesamiento de imágenes.
+
 ---
 # Redes Neuronales
 
 **RNN**
 
 ![rnn](media/RNN.jpg)
+
+--
+
+Datos secuenciales (texto, series temporales: bolsa)
 
 ---
 # Redes Neuronales
