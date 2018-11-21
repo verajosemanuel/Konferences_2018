@@ -24,7 +24,7 @@ solarized_dark(
 
 class: inverse, center, middle
 
-# ¿Qué es Inteligencia Artificial?
+# ¿En qué pensamos al hablar de Inteligencia Artificial?
 
 ---
 class: center, middle
@@ -157,7 +157,7 @@ class: inverse, center, middle
 ---
 ## ¿Qué es Inteligencia Artificial?
 
-- Conferencia de Darthmouth en 1956 (**_McCarthy, Minsky, Shannon y Rochester_**)
+- Conferencia de Darthmouth en 1956 (**_McCarthy, Minsky, Shannon y Rochester_**) Financia Rockefeller
 ![dartmouth](media/dartmouth.png)
 
 ---
@@ -223,6 +223,8 @@ class: center, middle
 ---
 ## Capacidad Cinestésica
 
+--
+
 ![pk](media/PK1.gif)
 
 .footnote[
@@ -248,14 +250,16 @@ class: center, middle
 ---
 ## Capacidad Musical
 
-![Bach](media/deepbach.PNG)
+![Bach](media/deepbach.png)
+
 .footnote[
 [4] Deep Bach] https://www.abc.es/tecnologia/informatica/abci-inteligencia-artificial-crea-musica-estilo-bach-201801242152_noticia.html
 
 ---
 ## Capacidad Artística
 
-![Rembrandt](media/rembrandt.PNG)
+![Rembrandt](media/rembrandt.png)
+
 .footnote[
 [5] Rembrandt IA] https://es.gizmodo.com/una-inteligencia-artificial-pinta-un-nuevo-cuadro-de-re-1769869684
 
@@ -372,29 +376,6 @@ class: inverse, middle, center
 **_Métodos estadísticos simples con suficiente volumen de datos, son capaces de aparentar comprensión e intuición._**
 
 ---
-class: middle, center
-
-![paas](media/paas2.jpg)
-
----
-# Palomas Expertas
-
- - Una paloma consigue el 80% de accuracy en un mes. Un enfermero tarda 6 meses de entrenamiento.
-
---
-
- - Un cluster de palomas consigue el 99%.
- 
-
-Más referencias: 
-
-https://www.youtube.com/watch?v=OWUDqmlY19A
-
-https://www.slideshare.net/juantomas/databeers-madrid-2017-paas-pigeons-as-a-service
-
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357
-
----
 # Logros
 
 - La Universidad de California en Berkeley, usa técnicas de Machine Learning para leer mentes. (No Lie MRI)
@@ -428,15 +409,34 @@ class: inverse, middle, center
  
 --
 
- - Poniendo un ejemplo absurdo, si los aviones se hubiesen llamado "Pájaros Mecánicos", en algún momento se hubiera discutido qué ocurriría cuando decidieran poner huevos.
- 
---
-
- - Otro ejemplo absurdo más. El Submarino
+ - Poniendo un ejemplo absurdo, si los aviones se hubiesen llamado "Pájaros Mecánicos", en algún momento se hubiera discutido qué ocurriría cuando decidieran poner huevos. O un submarino no puede "bucear".
  
 ---
 class: inverse, middle, center
 # Sin embargo....
+
+---
+class: middle, center
+
+![paas](media/paas2.jpg)
+
+---
+# Palomas Expertas
+
+ - Una paloma consigue el 80% de accuracy en un mes. Un enfermero tarda 6 meses de entrenamiento.
+
+--
+
+ - Un cluster de palomas consigue el 99%.
+ 
+
+Más referencias: 
+
+https://www.youtube.com/watch?v=OWUDqmlY19A
+
+https://www.slideshare.net/juantomas/databeers-madrid-2017-paas-pigeons-as-a-service
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357
 
 ---
 # Sin embargo....
@@ -454,18 +454,26 @@ class: inverse, middle, center
 ![turtle](media/turtle.gif)
 
 ---
-# Ya se dijo...
-
+# Cuestiones y Provocaciones
 **_“Actualmente, las máquinas resuelven problemas de acuerdo con los principios que hemos establecidos en ellas. Dentro de poco quizá aprendamos a ponerlas a trabajar en problemas específicos de mejorar su capacidad de resolver problemas. Una vez traspasado cierto umbral, esto nos llevaría a una espiral de aceleración y sería difícil perfeccionar un regulador fiable para refrenarlo”._**
-
                                                             Marvin Minsky
+--
+### La Singularidad, y otros "ismos"
+**En el momento en que las máquinas se puedan "rehacer" a sí mismas. Se producirá la explosión de la inteligencia.** 
+
+`Futurismo` (Ray Kurzweil), director de ingeniería de Google en 2012 supone que ocurrirá en 2045. Hasta ahora las mejoras han sido sobre todo en hardware y disponibilidad de datos en formato procesable. Poco probable a corto plazo, y será advertida antes.
+
+`Transhumanismo`, diseñaremos repuestos para nuestros propios órganos. ¿qué porcentaje de repuestos nos alejará de la categoría humana?
+                                                            
 ---
 # Cuestiones y provocaciones
 
 ![turtle](media/aibot.png)
 
+
 ---
 # Cuestiones y provocaciones
+
 - **¿Puede una IA llegar a ser más inteligente que un ser humano?**
 
 Si, pero en formas restringidas.
@@ -478,20 +486,25 @@ Y si el resultado final es el mismo, ¿importan algo las diferencias?
 
 --
 
-- **¿Tienen o tendrán mente las IA?** IA “fuerte” frente a IA “débil” (`Intrapersonal/Interpersonal`)
+- **¿Tienen o tendrán mente las IA?** 
 
-la IA fuerte afirma tienen, o llegarán a tener. La IA débil afirma que simplemente simulan. ¿actúan "cómo si"? El juego de imitación de Turing. Depende de las creencias que tenemos sobre nosotros mismos, por ejemplo ¿existe el alma? ¿los eventos mentales son de algún modo distintos e independientes del mundo físico (dualismo)?
+IA “fuerte” frente a IA “débil” (`Intrapersonal/Interpersonal`)
+Poseen frente a simulan. "Imitation Game" de Alan Turing.
+
+ Depende de las creencias que tenemos sobre nosotros mismos, por ejemplo ¿existe el alma? ¿los eventos mentales son de algún modo distintos e independientes del mundo físico (`dualismo`)?
 
 --
 
-Damos por sentado que las persona piensan (atribución). En nuestros cerebros ocurre algo que aún no entendemos. Si el cerebro es una maquina biológica que manipula símbolos, tampoco "piensa". Si pensamos nosotros, también lo hacen las computadoras. Mientras no podamos demostrar la conciencia, no podemos afirmar que las máquinas no la posean.
+Damos por sentado que las persona piensan (`atribución`). En nuestros cerebros ocurre algo que aún no entendemos. Si el cerebro es una maquina biológica que manipula símbolos, tampoco "piensa". Si pensamos nosotros, también lo hacen las computadoras. Mientras no podamos demostrar la conciencia, no podemos afirmar que las máquinas no la posean.
 
 ---
 # Cuestiones y provocaciones
 
 - **¿Puede tener libre albedrío una IA?**
 
-Antropocentrismo. Nos creemos especiales y nos aferramos a la idea de que el pensamiento es algo específicamente humano. De momento la evidencia es contraria. El libre albedrío no debería ser predecible, pero lo es. El cerebro toma decisiones antes de que la mente sea consciente. Es una decisión personal creer en ello.
+`Antropocentrismo`. Nos creemos especiales y nos aferramos a la idea de que el pensamiento es algo específicamente humano. 
+
+De momento la evidencia es contraria. El libre albedrío no debería ser predecible, pero lo es. **El cerebro toma decisiones antes de que la mente sea consciente**. Es una decisión personal creer en ello.
 
 --
 
@@ -506,36 +519,43 @@ class: inverse, middle, center
 ---
 # Efectos Jurídicos
 
-- **¿Puede una entidad no humana involucrarse en acuerdos y contratos?**
+- **¿Debería prohibirse a las entidades no humanas involucrarse en acuerdos y contratos?**
 
 --
 
-Lo hacen desde el emperador Bizantino Justiniano, en el siglo V .(Corpus). Críticas sobre el sesgo.
+Lo hacen desde el emperador Bizantino Justiniano, en el siglo V (Corpus). 
+
+Críticas sobre el sesgo (algoritmos para la concesión de hipotecas).
     
 --
 
 - **¿Se debe permitir que una IA posea bienes?**
 
-Si afectan a bienes o personas deben tener recursos asociados para compensar en caso de perjuicios. Imaginemos que pueden diseñar estrategias para el negocio, hacer inversiones, y por tanto, en un futuro lejano, adquirirse a sí mismos. (que por cierto era uno de los modos en que los esclavos podían lograr la libertad)
+Si afectan a bienes o personas deben tener recursos asociados para `compensar en caso de perjuicios`. Imaginemos que pueden diseñar estrategias para el negocio, hacer inversiones, y por tanto, en un futuro lejano, adquirirse a sí mismos. (que por cierto era uno de los modos en que los esclavos podían lograr la libertad)
+
+ - **Administración de Justicia automatizada**
+
+Un gran campo para la formalización. Ya existen en EEUU sistemas de ayuda a los jueces así como la clasificación de jurisprudencia y búsqueda de patrones.
 
 ---
 # Efectos Jurídicos
 
 - **¿Puede cometer un delito una IA?**
 
-Evidentemente. ¿es necesario tener conciencia moral para delinquir? NO. No es necesario ser humano para tener conciencia moral (entender las consecuencias y decidir entre acciones). 
+Evidentemente. ¿es necesario tener conciencia moral para delinquir? NO. 
+No es necesario ser humano para tener conciencia moral (**entender las consecuencias y decidir entre acciones**). 
 
 --
 
-A los psicópatas bajo proceso se les juzga por el hecho de ser conscientes de que hacían mal según los usos y costumbres, no si "sentían". La ley es un campo especialmente proclive a la formalización. 
+A los psicópatas bajo proceso se les juzga por el hecho de ser conscientes de que hacían mal según los usos y costumbres, no si "sentían".
 
 --
 
-Ética computacional y agentes morales artificiales. Es un reto tecnológico necesario (coches autónomos)
+`Ética computacional y agentes morales artificiales`. Es un reto tecnológico necesario (coches autónomos)
 
 --
 
-A veces ser moral implica transgredir la norma. Es crítico desarrollar e implementar regulaciones morales aplicables a una IA para guiar su comportamiento.
+`A veces ser moral implica transgredir la norma`. Es crítico desarrollar e implementar regulaciones morales aplicables a una IA para guiar su comportamiento.
 
 ---
 # Efectos Económicos
@@ -559,15 +579,6 @@ La IA es sólo otro avance en la automatización. Pero su efecto es multiplicati
 Nuestra economía está basada en el trabajo. Si este no es necesario......
 
 ---
-# La Singularidad, y otros "ismos"
-
-**En el momento en que las máquinas se puedan "rehacer" a sí mismas. Se producirá la explosión de la inteligencia.** 
-
-`Futurismo` (Ray Kurzweil), director de ingeniería de Google en 2012 supone que ocurrirá en 2045. Hasta ahora las mejoras han sido sobre todo en hardware y disponibilidad de datos en formato procesable. Poco probable a corto plazo, y será advertida antes.
-
-`Transhumanismo`, diseñaremos repuestos para nuestros propios órganos. ¿qué porcentaje de repuestos nos alejará de la categoría humana?
-
----
 # Especulaciones más allá...
 
 **¿Será un problema una súper inteligencia fuera de control? **
@@ -576,7 +587,7 @@ Demasiado remoto y especulativo. Pero concentra mucha atención. Las máquinas p
 
 **¿Pueden volverse locas las IA?**
 
-En realidad son peores los efectos secundarios no planificados. Veasé el automóvil. Estupidez Artificial.
+En realidad son peores los efectos secundarios no planificados. Veasé el **automóvil**. `Estupidez Artificial`.
 
 **¿Podremos copiarnos a una computadora?**
 
