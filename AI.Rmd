@@ -27,13 +27,25 @@ class: inverse, center, middle
 # ¿En qué pensamos al hablar de Inteligencia Artificial?
 
 ---
-class: center, middle
-![terminator](media/terminator.jpg)
+background-image: url(media/terminatorbig.jpg)
+background-position: 50% 50%
+class: center, bottom
 
 ---
-class: center, middle
-![her](media/her.jpg)
-j
+background-image: url(media/herpek.jpg)
+background-position: 50% 50%
+class: center, bottom
+# Her
+---
+background-image: url(media/exmachinapek.png)
+background-position: 50% 50%
+class: center, bottom
+# Ex Machina
+---
+background-image: url(media/rfkpk.jpg)
+background-position: 50% 50%
+class: center, bottom
+# Robot & Frank
 ---
 class: inverse, center, middle
 # ¿Qué es Inteligencia?
@@ -63,7 +75,7 @@ Ni siquiera es estable en el tiempo.
 
 --
  
-Avances en algebra matricial y analisis factorial. Correlación, un factor general G, y tantos como factores se midan
+Avances en algebra matricial y analisis factorial. Correlación, un factor general G, y tantos como factores se midanñ
 
 ---
 # Más allá del concepto
