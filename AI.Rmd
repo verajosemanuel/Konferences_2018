@@ -36,16 +36,7 @@ background-image: url(media/herpek.jpg)
 background-position: 50% 50%
 class: center, bottom
 # Her
----
-background-image: url(media/exmachinapek.png)
-background-position: 50% 50%
-class: center, bottom
-# Ex Machina
----
-background-image: url(media/rfkpk.jpg)
-background-position: 50% 50%
-class: center, bottom
-# Robot & Frank
+
 ---
 class: inverse, center, middle
 # ¿Qué es Inteligencia?
@@ -68,8 +59,6 @@ Ni siquiera es estable en el tiempo.
 ### Primera Guerra Mundial 
 
  - test army α
- 
---
 
  - test army β
 
@@ -164,7 +153,13 @@ class: inverse, center, middle
 ---
 ## ¿Qué es Inteligencia Artificial?
 
- - La respuesta que demos estara siempre condicionada por el proposito, la ideologia y los temores.
+ - La respuesta que demos estara siempre condicionada por el **proposito**, la **ideologia** y los **temores**.
+ 
+ .
+ 
+--
+
+### ¿Cuándo queda fijado el concepto de IA tal y cómo lo entendemos hoy?
 
 ---
 ## ¿Qué es Inteligencia Artificial?
@@ -173,9 +168,9 @@ class: inverse, center, middle
 ![dartmouth](media/dartmouth.png)
 
 ---
-## ¿Qué es Inteligencia Artificial?
+## Hagamos el camino inverso
 
- -  Vamos a hacer el camino a la inversa: ¿Qué existe que se ajuste a lo que consideramos inteligencia?
+### `¿Qué existe HOY que se ajuste a lo que consideramos inteligencia?`
  
 ---
 ## Capacidad Matemática
@@ -200,7 +195,6 @@ class: inverse, center, middle
  
    .pull-right[![OVR](media/ocrtr.png)]
    
-
 --
 
  - Clasificacion de los documentos por temas
@@ -313,6 +307,11 @@ class: center, middle
  - **Go Zero : **
     - **sin set de training. Jugaba contra sí mismo. (4 horas)**
 
+
+---
+class: center, middle
+# Todo esto se ha conseguido gracias a....
+
 ---
 # Redes Neuronales
 
@@ -335,6 +334,11 @@ McCulloch y Pitts (1943) postulan la posibilidad de que modelar matemáticamente
 # Redes Neuronales
 
 ![mosca](media/cerebromosca.jpg)
+
+---
+class: inverse, middle, center
+# ¿Cómo hemos trasladado lo biológico a lo artificial?
+
 ---
 # Redes Neuronales
 
@@ -375,7 +379,6 @@ Datos secuenciales (texto, series temporales: bolsa)
 
 ![gans](media/gan1.png)
 
-
 ---
 # Redes Neuronales
 
@@ -387,26 +390,7 @@ class: inverse, middle, center
 
 **_Métodos estadísticos simples con suficiente volumen de datos, son capaces de aparentar comprensión e intuición._**
 
----
-# Logros
 
-- La Universidad de California en Berkeley, usa técnicas de Machine Learning para leer mentes. (No Lie MRI)
-
---
-
-- Terapia emocional con veteranos de guerra.
-
---
-
-- Cuidado de ancianos (Japón), eliminación de plagas con minibots.
-
---
-
-- Opportunity / Curiosity / Fukushima
-
---
-
-- En la dicotomía `razonamiento simbólico vs. Machine Learning` el énfasis de la IA se ha puesto en el segundo cuando pensar es más cercano a lo primero.
 
 ---
 class: inverse, middle, center
@@ -421,8 +405,23 @@ class: inverse, middle, center
  
 --
 
- - Poniendo un ejemplo absurdo, si los aviones se hubiesen llamado "Pájaros Mecánicos", en algún momento se hubiera discutido qué ocurriría cuando decidieran poner huevos. O un submarino no puede "bucear".
+ - Aviones vs. Pájaros mecánicos o submarinos
  
+---
+# Algunos Logros
+
+- La Universidad de California en Berkeley, usa técnicas de Machine Learning para leer mentes. (No Lie MRI)
+
+- Terapia emocional con veteranos de guerra.
+
+- Cuidado de ancianos (Japón), eliminación de plagas con minibots.
+
+- Opportunity / Curiosity / Fukushima
+
+--
+### Importante:
+- En la dicotomía `razonamiento simbólico vs. Machine Learning` el énfasis de la IA se ha puesto en el segundo cuando pensar es más cercano a lo primero.
+
 ---
 class: inverse, middle, center
 # Sin embargo....
@@ -459,23 +458,6 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357
 # Sin embargo....
 
 ![turtle](media/turtle.gif)
-
----
-# Sin embargo....
-
-![turtle](media/turtle.gif)
-
----
-# Cuestiones y Provocaciones
-**_“Actualmente, las máquinas resuelven problemas de acuerdo con los principios que hemos establecidos en ellas. Dentro de poco quizá aprendamos a ponerlas a trabajar en problemas específicos de mejorar su capacidad de resolver problemas. Una vez traspasado cierto umbral, esto nos llevaría a una espiral de aceleración y sería difícil perfeccionar un regulador fiable para refrenarlo”._**
-                                                            Marvin Minsky
---
-### La Singularidad, y otros "ismos"
-**En el momento en que las máquinas se puedan "rehacer" a sí mismas. Se producirá la explosión de la inteligencia.** 
-
-`Futurismo` (Ray Kurzweil), director de ingeniería de Google en 2012 supone que ocurrirá en 2045. Hasta ahora las mejoras han sido sobre todo en hardware y disponibilidad de datos en formato procesable. Poco probable a corto plazo, y será advertida antes.
-
-`Transhumanismo`, diseñaremos repuestos para nuestros propios órganos. ¿qué porcentaje de repuestos nos alejará de la categoría humana?
                                                             
 ---
 # Cuestiones y provocaciones
@@ -486,43 +468,43 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357
 ---
 # Cuestiones y provocaciones
 
-- **¿Puede una IA llegar a ser más inteligente que un ser humano?**
+- **¿Puede una IA ser más inteligente que un ser humano?**
 
-Si, pero en formas restringidas.
-
---
-
-- **¿"por dentro" hace lo mismo?**
-
-Y si el resultado final es el mismo, ¿importan algo las diferencias?
+ - Si, ya lo son pero en formas restringidas.
 
 --
 
-- **¿Tienen o tendrán mente las IA?** 
+- **¿Pero es lo mismo?**
 
-IA “fuerte” frente a IA “débil” (`Intrapersonal/Interpersonal`)
-Poseen frente a simulan. "Imitation Game" de Alan Turing.
-
- Depende de las creencias que tenemos sobre nosotros mismos, por ejemplo ¿existe el alma? ¿los eventos mentales son de algún modo distintos e independientes del mundo físico (`dualismo`)?
+   - Y si el resultado final es el mismo, ¿importan algo las diferencias?
 
 --
 
-Damos por sentado que las persona piensan (`atribución`). En nuestros cerebros ocurre algo que aún no entendemos. Si el cerebro es una maquina biológica que manipula símbolos, tampoco "piensa". Si pensamos nosotros, también lo hacen las computadoras. Mientras no podamos demostrar la conciencia, no podemos afirmar que las máquinas no la posean.
+
+- **¿Tienen o tendrán mente?** (IA “fuerte” frente a IA “débil”)
+
+ - Depende de las creencias que tenemos sobre nosotros mismos, por ejemplo ¿los eventos mentales son de algún modo distintos e independientes del mundo físico (`dualismo`)?
+
+--
+
+ - Si el cerebro es una maquina biológica que manipula símbolos, tampoco "piensa". Si pensamos nosotros, también lo hacen las computadoras. Mientras no podamos demostrar la conciencia, no podemos afirmar que las máquinas no la posean.
 
 ---
 # Cuestiones y provocaciones
 
 - **¿Puede tener libre albedrío una IA?**
 
-`Antropocentrismo`. Nos creemos especiales y nos aferramos a la idea de que el pensamiento es algo específicamente humano. 
+--
 
-De momento la evidencia es contraria. El libre albedrío no debería ser predecible, pero lo es. **El cerebro toma decisiones antes de que la mente sea consciente**. Es una decisión personal creer en ello.
+El libre albedrío no debería ser predecible, pero lo es. `El cerebro toma decisiones antes de que la mente sea consciente`. 
+
+Es una decisión personal creer en el libre albedrío.
 
 --
 
 - **¿Puede “sentir” una IA?**
 
-Es sencillo construir un robot que muestre sensación de dolor, llore o diga que le duele. ¿siente dolor? ¿Pueden sentir las máquinas? ¿es importante? 
+Es sencillo construir un robot que muestre sensación de dolor, llore o diga que le duele. ¿siente dolor? ¿Pueden sentir las máquinas? ¿es importante? `¿Queremos que lo hagan?`
 
 ---
 class: inverse, middle, center
@@ -543,7 +525,13 @@ Críticas sobre el sesgo (algoritmos para la concesión de hipotecas).
 
 - **¿Se debe permitir que una IA posea bienes?**
 
-Si afectan a bienes o personas deben tener recursos asociados para `compensar en caso de perjuicios`. Imaginemos que pueden diseñar estrategias para el negocio, hacer inversiones, y por tanto, en un futuro lejano, adquirirse a sí mismos. (que por cierto era uno de los modos en que los esclavos podían lograr la libertad)
+--
+
+Si afectan a bienes o personas deben tener recursos asociados para `compensar en caso de perjuicios`. 
+
+Podrían en tal caso `adquirirse a sí mismas`.
+
+--
 
  - **Administración de Justicia automatizada**
 
@@ -554,12 +542,12 @@ Un gran campo para la formalización. Ya existen en EEUU sistemas de ayuda a los
 
 - **¿Puede cometer un delito una IA?**
 
-Evidentemente. ¿es necesario tener conciencia moral para delinquir? NO. 
-No es necesario ser humano para tener conciencia moral (**entender las consecuencias y decidir entre acciones**). 
+`¿es necesario tener conciencia moral para delinquir?` NO. 
+Solamente **conocer las consecuencias y decidir entre acciones** en necesario. 
 
 --
 
-A los psicópatas bajo proceso se les juzga por el hecho de ser conscientes de que hacían mal según los usos y costumbres, no si "sentían".
+A los psicópatas bajo proceso se les juzga por el hecho de "saber" que hacían mal según los usos y costumbres, no si "sentían" lo que hacían.
 
 --
 
@@ -574,11 +562,9 @@ A los psicópatas bajo proceso se les juzga por el hecho de ser conscientes de q
 
 - **¿Nos quitarán el trabajo?**
 
-Las palomas le quitarán el trabajo a los Radiólogos. (si no lo hace una IA)
-
 --
 
-Al resto también. La duda es la velocidad del cambio y las estrategias aplicadas para paliar sus efectos negativos.
+La duda es la velocidad del cambio y las estrategias aplicadas para paliar sus efectos negativos.
 
 Hace siglo y medio, todo el mundo vivía del trabajo en la tierra, mientras que actualmente en España solamente un 5% lo hace. Si hubiera sido de la noche a la mañana hubiera sido brutal.
 
@@ -616,3 +602,29 @@ class: inverse, center, middle
 # Gracias!
 
 ![thanks](media/thanks.gif)
+
+
+
+
+---
+# Cuestiones y Provocaciones
+**_“Actualmente, las máquinas resuelven problemas de acuerdo con los principios que hemos establecidos en ellas. Dentro de poco quizá aprendamos a ponerlas a trabajar en problemas específicos de mejorar su capacidad de resolver problemas. Una vez traspasado cierto umbral, esto nos llevaría a una espiral de aceleración y sería difícil perfeccionar un regulador fiable para refrenarlo”._**
+                                                            Marvin Minsky
+--
+### La Singularidad, y otros "ismos"
+**En el momento en que las máquinas se puedan "rehacer" a sí mismas. Se producirá la explosión de la inteligencia.** 
+
+`Futurismo` (Ray Kurzweil), director de ingeniería de Google en 2012 supone que ocurrirá en 2045. Hasta ahora las mejoras han sido sobre todo en hardware y disponibilidad de datos en formato procesable. Poco probable a corto plazo, y será advertida antes.
+
+`Transhumanismo`, diseñaremos repuestos para nuestros propios órganos. ¿qué porcentaje de repuestos nos alejará de la categoría humana?
+
+---
+background-image: url(media/exmachinapek.png)
+background-position: 50% 50%
+class: center, bottom
+# Ex Machina
+---
+background-image: url(media/rfkpk.jpg)
+background-position: 50% 50%
+class: center, bottom
+# Robot & Frank
