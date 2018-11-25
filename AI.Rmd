@@ -182,16 +182,14 @@ class: inverse, center, middle
 ---
 ## Capacidad Linguística
 
- - Reconocimiento del texto escrito
- - Reconocimiento + Traducción
+ - Reconocimiento del texto escrito + Traducción Automática
  
   ![OVR](media/ocrtr.png)
    
 ---
 ## Capacidad Linguística
 
- - Reconocimiento del texto escrito
- - Reconocimiento + Traducción
+ - Reconocimiento del texto escrito + Traducción automática
  - Clasificacion de los documentos por temas
  
 --
@@ -210,7 +208,7 @@ class: inverse, center, middle
 ---
 ## Capacidad Espacial
 
-_DARPA Grand Challenge (2004): 1 millón de dólares. Ruta de 180 kilómetros por terreno accidentado. NInguno pasó de 10 Km. Al año siguiente lo lograron 5_
+_`DARPA Grand Challenge` (**2004**): 1 millón de dólares. Ruta de 180 kilómetros por terreno accidentado. NInguno pasó de 10 Km. Al año siguiente lo lograron 5_
 
 ![car](media/car.jpg)
 
