@@ -154,7 +154,7 @@ class: inverse, center, middle
 ---
 ## ¿Qué es Inteligencia Artificial?
 
-- Conferencia de Darthmouth en 1956 (**_McCarthy, Minsky, Shannon y Rochester_**) Financia Rockefeller
+- (1956) Conferencia de Darthmouth (**_McCarthy, Minsky, Shannon y Rochester_**) Financia Rockefeller
 ![dartmouth](media/dartmouth.png)
 
 ---
@@ -163,7 +163,7 @@ class: inverse, center, middle
  - La respuesta que demos estara siempre condicionada por el **proposito**, la **ideologia** y los **temores**.
  
  .
- 
+
 ---
 ## Hagamos el camino inverso
 
@@ -172,17 +172,12 @@ class: inverse, center, middle
 ---
 ## Capacidad Matemática
 
-<div align="center"><img src="media/calculadora.png"></div> 
+ .pull-left[![calc](media/calculadora.png)]
+ 
+  .pull-right[![excel](media/excelpek.png)]
+  
+ .pull-right[![scriptcalc](media/calculator.png)]
 
----
-## Capacidad Matemática
-
-![excel](media/excel.png)
-
----
-## Capacidad Matemática
-
-![scriptcalc](media/calculator.png)
 
 ---
 ## Capacidad Linguística
@@ -190,20 +185,27 @@ class: inverse, center, middle
  - Reconocimiento del texto escrito
  - Reconocimiento + Traducción
  
-   .pull-right[![OVR](media/ocrtr.png)]
+  ![OVR](media/ocrtr.png)
    
---
+---
+## Capacidad Linguística
 
+ - Reconocimiento del texto escrito
+ - Reconocimiento + Traducción
  - Clasificacion de los documentos por temas
  
 --
 
  - Analisis del sentimiento del discurso
  
---
+![trump](media/trump.jpeg)
+  
+---
+## Capacidad Linguística
 
- - Gramática Generativa: Creación de discurso inteligible
-
+ - Gramática Generativa: Creación de discurso inteligible (ChatBots)
+ 
+![nazibot](media/nazibot3.jpeg)
 
 ---
 ## Capacidad Espacial
@@ -364,6 +366,7 @@ Detección de patrones. Procesamiento de imágenes.
 **RNN**
 
 ![rnn](media/RNN.jpg)
+
 
 --
 
