@@ -125,6 +125,7 @@ a, a > code {
   float: right;
   width: 47%;
 }
+
 .pull-right ~ * {
   clear: both;
 }

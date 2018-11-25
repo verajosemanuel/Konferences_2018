@@ -154,7 +154,7 @@ class: inverse, center, middle
 ---
 ## ¿Qué es Inteligencia Artificial?
 
-- (1956) Conferencia de Darthmouth (**_McCarthy, Minsky, Shannon y Rochester_**) Financia Rockefeller
+- (1956) Conferencia de Darthmouth (**_McCarthy, Minsky, Shannon y Rochester_**) 
 ![dartmouth](media/dartmouth.png)
 
 ---
@@ -314,10 +314,10 @@ class: center, middle
 
 ¿Cómo podemos entender cómo funciona un cerebro real?
 
-![neurona](media/brainneuron.png)
+<div align="center"><img src=media/brainneuron.png></div>
 
 
-McCulloch y Pitts (1943) postulan la posibilidad de que modelar matemáticamente el cerebro pudiese conducir a avances en el tratamiento de trastornos psiquiátricos. (No existen computadoras programables en ese momento.)
+**McCulloch y Pitts** (`1943`) postulan la posibilidad de que modelar matemáticamente el cerebro pudiese conducir a avances en el tratamiento de trastornos psiquiátricos. (No existen computadoras programables en ese momento.)
 
 ---
 # Redes Neuronales
@@ -325,7 +325,7 @@ McCulloch y Pitts (1943) postulan la posibilidad de que modelar matemáticamente
  - 8 tipos según diversa química
  - 6 tipos según morfología y funcionalidad (hasta 27 tipos según otras clasificaciones)
 
-![brain](media/Neurons2.jpg)
+<div align="center"><img src=media/Neurons2.jpg></div>
 
 ---
 # Redes Neuronales
@@ -440,53 +440,48 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357
 ---
 # Sin embargo....
 
-![estupidez](media/stophate.jpg)
+<div align="center"><img src=media/stopsign.jpg></div>
 
 ---
 # Sin embargo....
 
-![turtle](media/turtle.gif)
+<div align="center"><img src=media/turtle.gif></div>
                                                             
 ---
 # Cuestiones y provocaciones
 
-![turtle](media/aibot.png)
-
+<div align="center"><img src=media/aibot.png></div>
 
 ---
 # Cuestiones y provocaciones
 
 - **¿Puede una IA ser más inteligente que un ser humano?**
 
- - Si, ya lo son pero en formas restringidas.
-
 --
 
 - **¿Pero es lo mismo?**
 
-   - Y si el resultado final es el mismo, ¿importan algo las diferencias?
-
 --
 
-
-- **¿Tienen o tendrán mente?** (IA “fuerte” frente a IA “débil”)
+- **¿Tienen o tendrán mente?** 
+ - IA “fuerte” vs. IA “débil”
 
  - Depende de las creencias que tenemos sobre nosotros mismos, por ejemplo ¿los eventos mentales son de algún modo distintos e independientes del mundo físico (`dualismo`)?
 
 --
 
- - Si el cerebro es una maquina biológica que manipula símbolos, tampoco "piensa". Si pensamos nosotros, también lo hacen las computadoras. Mientras no podamos demostrar la conciencia, no podemos afirmar que las máquinas no la posean.
+ - Si el cerebro es una maquina biológica que manipula símbolos, tampoco "piensa". Si pensamos nosotros, también lo hacen las computadoras.
+ 
+--
+ 
+ - Mientras no podamos demostrar la conciencia, no podemos afirmar que las máquinas no la posean.
 
 ---
 # Cuestiones y provocaciones
 
 - **¿Puede tener libre albedrío una IA?**
 
---
-
 El libre albedrío no debería ser predecible, pero lo es. `El cerebro toma decisiones antes de que la mente sea consciente`. 
-
-Es una decisión personal creer en el libre albedrío.
 
 --
 
@@ -501,21 +496,21 @@ class: inverse, middle, center
 ---
 # Efectos Jurídicos
 
-- **¿Debería prohibirse a las entidades no humanas involucrarse en acuerdos y contratos?**
+- **Acuerdos Jurídicamente relevantes**
+
+`¿Debería prohibirse a las entidades no humanas involucrarse en acuerdos y contratos?`
 
 --
 
-Lo hacen desde el emperador Bizantino Justiniano, en el siglo V (Corpus). 
-
-Críticas sobre el sesgo (algoritmos para la concesión de hipotecas).
+    - Críticas sobre el sesgo (algoritmos para la concesión de `hipotecas`).
     
 --
 
-- **¿Se debe permitir que una IA posea bienes?**
+- **Posesión de bienes**
 
 --
 
-Si afectan a bienes o personas deben tener recursos asociados para `compensar en caso de perjuicios`. 
+Si en su actividad afectan a bienes o personas deben tener recursos asociados para `compensar en caso de perjuicios`. 
 
 Podrían en tal caso `adquirirse a sí mismas`.
 
@@ -531,11 +526,14 @@ Un gran campo para la formalización. Ya existen en EEUU sistemas de ayuda a los
 - **¿Puede cometer un delito una IA?**
 
 `¿es necesario tener conciencia moral para delinquir?` NO. 
-Solamente **conocer las consecuencias y decidir entre acciones** en necesario. 
 
 --
 
-A los psicópatas bajo proceso se les juzga por el hecho de "saber" que hacían mal según los usos y costumbres, no si "sentían" lo que hacían.
+ - `conocer las consecuencias, y`
+ 
+--
+ 
+ - `decidir entre acciones`
 
 --
 
@@ -552,13 +550,13 @@ A los psicópatas bajo proceso se les juzga por el hecho de "saber" que hacían 
 
 --
 
-La duda es la velocidad del cambio y las estrategias aplicadas para paliar sus efectos negativos.
-
-Hace siglo y medio, todo el mundo vivía del trabajo en la tierra, mientras que actualmente en España solamente un 5% lo hace. Si hubiera sido de la noche a la mañana hubiera sido brutal.
+ - La duda es la velocidad del cambio y las estrategias aplicadas para paliar sus efectos negativos. (5% sector agrario en España)
 
 --
 
-La IA es sólo otro avance en la automatización. Pero su efecto es multiplicativo. Aproximadamente el 65% de los trabajos desaparecerán en las próximas décadas. Afecta menos a las labores intelectuales que las manuales, y mucho más a las rutinarias. (Estudio de la Universidad de Oxford https://www.bbc.com/mundo/noticias-38930099)
+ - La IA es sólo otro avance en la automatización. Pero su efecto es multiplicativo. Aproximadamente el `65% de los trabajos desaparecerán en las próximas décadas`. Cuanto menos intelectual y más rutinario, peor.
+ 
+ (Estudio de la Universidad de Oxford https://www.bbc.com/mundo/noticias-38930099)
 
 --
 
@@ -567,13 +565,15 @@ Nuestra economía está basada en el trabajo. Si este no es necesario......
 ---
 # Especulaciones más allá...
 
-**¿Será un problema una súper inteligencia fuera de control? **
+<div align="center"><img src=media/hal9000.png></div>
 
-Demasiado remoto y especulativo. Pero concentra mucha atención. Las máquinas podrán modificar sus objetivos pero esta capacidad estará limitada por el propósito de su diseño. Claro, que si su diseño es perpetuarse...
+**HAL 9000, Una súper inteligencia fuera de control ¿Pueden volverse locas?**
 
-**¿Pueden volverse locas las IA?**
+--
 
-En realidad son peores los efectos secundarios no planificados. Veasé el **automóvil**. `Estupidez Artificial`.
+En realidad son peores los efectos secundarios no planificados. Como el caso del `automóvil`. 
+
+`Estupidez Artificial` provocada por **Estupidez Natural**.
 
 **¿Podremos copiarnos a una computadora?**
 
