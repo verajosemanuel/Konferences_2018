@@ -6,11 +6,12 @@ date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: xaringan-themer.css
+    css: xaringan-themer-custom.css
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      slideNumberFormat: "%current%"  
 ---
 
 ```{r setup, include=FALSE}
@@ -45,13 +46,9 @@ class: inverse, center, middle
 
 # Más allá del concepto
 
-Las mediciones determinan la posición del individuo en la población en función de la edad y su desempeño.
 
 <img src="media/normal.png" width="800">
 
---
-
-Ni siquiera es estable en el tiempo.
 
 ---
 # Más allá del concepto
@@ -62,27 +59,22 @@ Ni siquiera es estable en el tiempo.
 
  - test army β
 
---
- 
-Avances en algebra matricial y analisis factorial. Correlación, un factor general G, y tantos como factores se midanñ
-
 ---
 # Más allá del concepto
 
 ### Segunda Guerra Mundial.
 
+`Avances en matemática`: 
+
+Álgebra matricial y analisis factorial = factor G, y tantos como factores se midan
+
+--
+
  - Baterias de aptitud múltiple o pruebas diferenciales.
  
 --
 
- - Se miden factores mucho más específicos para tareas especializadas de modo que se pueden seleccionar pilotos, artilleros, operadores de radio...
-
---
-
- - Army Standard Scores:
-    - Aircrew classification battery
-    - Army general classification
-    - Armed forces qualification test
+ - Army Standard Scores: pilotos, artilleros, operadores de radio...
 
 
 ---
@@ -90,12 +82,8 @@ Avances en algebra matricial y analisis factorial. Correlación, un factor gener
 
   - Sesgos Culturales
 
---
+  - Racismo
 
-  - Racismo?
-  
---
-  
   - Conformismo Social
   
 --
@@ -106,26 +94,36 @@ Avances en algebra matricial y analisis factorial. Correlación, un factor gener
 
 ## El Concepto
 
- - Jerry Fodor y la Modularidad fisiológica (1980): 
-                parece que existen módulos específicos por tarea.
+ - Jerry Fodor y la `Modularidad fisiológica` (**1980**): 
+              
  .pull-right[![Fodor](media/fodor.jpg)] 
 
 ---
 
 ## El Concepto
 
- - Howard Gardner y las Inteligencias múltiples (1983):
+ - Howard Gardner y las `Inteligencias múltiples` (**1983**):
  
-    Lengua, matemática, espacial, musical, cinestésica, intrapersonal/interpersonal, +naturalista
+   .pull-right[![Gardner](media/gardner.jpg)] 
+  Lengua, 
+  
+    matemática,
     
-  .pull-right[![Gardner](media/gardner.jpg)] 
-
+    espacial,
+    
+    musical,
+    
+    cinestésica,
+    
+    intrapersonal/interpersonal,
+    
+    +naturalista
 ---
 
 ## El Concepto
 
  - Daniel Goleman: 
-        inteligencia emocional (1995), social y ecológica
+        inteligencia emocional (**1995**), social y ecológica
  
    .pull-right[![Goleman](media/goleman.jpg)]
    
@@ -150,14 +148,6 @@ class: inverse, center, middle
 # Entonces...
 # ¿Qué es Inteligencia Artificial?
 
----
-## ¿Qué es Inteligencia Artificial?
-
- - La respuesta que demos estara siempre condicionada por el **proposito**, la **ideologia** y los **temores**.
- 
- .
- 
---
 
 ### ¿Cuándo queda fijado el concepto de IA tal y cómo lo entendemos hoy?
 
@@ -167,6 +157,13 @@ class: inverse, center, middle
 - Conferencia de Darthmouth en 1956 (**_McCarthy, Minsky, Shannon y Rochester_**) Financia Rockefeller
 ![dartmouth](media/dartmouth.png)
 
+---
+## ¿Qué es Inteligencia Artificial?
+
+ - La respuesta que demos estara siempre condicionada por el **proposito**, la **ideologia** y los **temores**.
+ 
+ .
+ 
 ---
 ## Hagamos el camino inverso
 
@@ -406,17 +403,7 @@ class: inverse, middle, center
 --
 
  - Aviones vs. Pájaros mecánicos o submarinos
- 
----
-# Algunos Logros
 
-- La Universidad de California en Berkeley, usa técnicas de Machine Learning para leer mentes. (No Lie MRI)
-
-- Terapia emocional con veteranos de guerra.
-
-- Cuidado de ancianos (Japón), eliminación de plagas con minibots.
-
-- Opportunity / Curiosity / Fukushima
 
 --
 ### Importante:
@@ -628,3 +615,14 @@ background-image: url(media/rfkpk.jpg)
 background-position: 50% 50%
 class: center, bottom
 # Robot & Frank
+ 
+---
+# Algunos Logros
+
+- La Universidad de California en Berkeley, usa técnicas de Machine Learning para leer mentes. (No Lie MRI)
+
+- Terapia emocional con veteranos de guerra.
+
+- Cuidado de ancianos (Japón), eliminación de plagas con minibots.
+
+- Opportunity / Curiosity / Fukushima

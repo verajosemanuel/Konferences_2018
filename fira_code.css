@@ -41,3 +41,11 @@
     font-weight: 700;
     font-style: normal;
 }
+
+.remark-slide-number {
+  font-size: 1pt;
+  margin-bottom: -11.6px;
+  margin-right: 10px;
+  color: #FFFFFF; /* white */
+  opacity: 1; /* default: 0.5 */
+}
