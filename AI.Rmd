@@ -199,16 +199,17 @@ _`DARPA Grand Challenge` (**2004**): 1 millón de dólares. Ruta de 180 kilómet
 ![car](media/car.jpg)
 
 ---
-class: center, middle
-![car2](media/kenya.PNG)
+## Inteligencia Espacial
+
+.pull-left[![car2](media/kenya.PNG)]
+.pull-right[![cars2](media/cars2.jpg)]
 
 ---
 ## Inteligencia Espacial
 
-![cars2](media/cars2.jpg)
+![kina](media/chine.png)
 
-.footnote[
-[1] Self Driven Cars taught by poor kenyans] https://www.bbc.co.uk/news/amp/technology-46055595
+
 ---
 ## Inteligencia Cinestésica
 
