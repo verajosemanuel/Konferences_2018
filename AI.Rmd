@@ -413,6 +413,10 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141357
 <div align="center"><img src=media/turtle.gif></div>
 
 ---
+class: inverse, middle, center
+# Cuestiones
+
+---
 # Cuestiones
 
 - **¿Puede una IA ser más inteligente que un ser humano?**
@@ -493,8 +497,6 @@ Un gran campo para la formalización. Ya existen en EEUU sistemas de ayuda a los
 
  - `conocer las consecuencias, y`
  
---
- 
  - `decidir entre acciones`
 
 --
@@ -526,7 +528,7 @@ Un gran campo para la formalización. Ya existen en EEUU sistemas de ayuda a los
 
 <div align="center"><img src=media/hal9000.png></div>
 
-**HAL 9000, Una súper inteligencia fuera de control ¿Pueden volverse locas?**
+**Inteligencia fuera de control ¿Pueden volverse locas?**
 
 --
 
@@ -536,7 +538,7 @@ En realidad son peores los efectos secundarios no planificados. Como el caso del
 
 **¿Podremos copiarnos a una computadora?**
 
-Respondo con otra pregunta ¿seríamos nosotros mismos? ¿seguiremos experimentando dolor? ¿seguiríamos cosechando experiencias? ¿seguiríamos controlando nuestro patrimonio? ¿podríamos hacer el camino de vuelta a un cuerpo?
+¿seríamos nosotros mismos? ¿seguiremos experimentando dolor? ¿seguiríamos cosechando experiencias? ¿seguiríamos controlando nuestro patrimonio? ¿podríamos hacer el camino de vuelta a un cuerpo?
 
 ---
 class: inverse, middle, center
@@ -545,7 +547,6 @@ class: inverse, middle, center
 
 ---
 class: center, middle
-
 
 ![terminate](media/terminatorthumb.gif)
 
