@@ -142,15 +142,6 @@ class: inverse, center, middle
 ![dartmouth](media/dartmouth.png)
 
 ---
-## Prestar atención a:
-
- - el **propósito**, la **ideología** y los **temores**.
-                                                             
---
-
-<div align="center"><img src=media/aibot.png></div>
-
----
 ## Hagamos el camino inverso
 
 ### `¿Qué existe HOY que se ajuste a lo que consideramos inteligencia?`
