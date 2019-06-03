@@ -63,7 +63,7 @@ class: inverse, center, middle
 
 ### Segunda Guerra Mundial.
 
-`Avances en`: 
+Avances en: 
 
 Álgebra matricial y analisis factorial = factor G, y tantos como factores se midan
 
@@ -92,7 +92,7 @@ class: inverse, center, middle
 
 ## Más allá del a medida: El Concepto
 
- - Howard Gardner y las `Inteligencias múltiples` (**1983**):
+ - Howard Gardner y las Inteligencias múltiples (**1983**):
  
    .pull-right[![Gardner](media/gardner.jpg)] 
   Lengua, 
@@ -115,7 +115,7 @@ class: inverse, center, middle
 
  - Daniel Goleman: 
  
- inteligencia emocional (`1995`), social y ecológica
+ inteligencia emocional (**1995**), social y ecológica
  
    .pull-right[![Goleman](media/goleman.jpg)]
    
@@ -138,13 +138,15 @@ class: inverse, center, middle
 ---
 ### ¿Cuándo queda fijado el concepto de IA tal y cómo lo entendemos hoy?
 
-- (`1956`) Conferencia de Darthmouth (**_McCarthy, Minsky, Shannon y Rochester_**) 
-![dartmouth](media/dartmouth.png)
+(**1956**) Conferencia de Darthmouth (**_McCarthy, Minsky, Shannon y Rochester_**) 
+
+![dartmouth](media/dartmouth.jpg)
+
 
 ---
 ## Hagamos el camino inverso
 
-### `¿Qué existe HOY que se ajuste a lo que consideramos inteligencia?`
+### ¿Qué existe HOY que se ajuste a lo que consideramos inteligencia?
  
 ---
 ## Inteligencia Matemática
@@ -185,9 +187,9 @@ class: inverse, center, middle
 ---
 ## Inteligencia Espacial
 
-_`DARPA Grand Challenge` (**2004**): 1 millón de dólares. Ruta de 180 kilómetros por terreno accidentado. NInguno pasó de 10 Km. Al año siguiente lo lograron 5_
+_DARPA Grand Challenge (**2004**): 1 millón de dólares. Ruta de 180 kilómetros por terreno accidentado. NInguno pasó de 10 Km. Al año siguiente lo lograron 5_
 
-![car](media/car.jpg)
+![car](media/carpek.jpg)
 
 ---
 ## Inteligencia Espacial
@@ -198,13 +200,11 @@ _`DARPA Grand Challenge` (**2004**): 1 millón de dólares. Ruta de 180 kilómet
 ---
 ## Inteligencia Espacial
 
-![kina](media/chine.png)
+![kina](media/chine.jpg)
 
 
 ---
 ## Inteligencia Cinestésica
-
---
 
 ![pk](media/PK1.gif)
 
@@ -229,7 +229,7 @@ _`DARPA Grand Challenge` (**2004**): 1 millón de dólares. Ruta de 180 kilómet
 ---
 ## Inteligencia Musical
 
-![Bach](media/deepbach.png)
+![Bach](media/deepbach.jpg)
 
 .footnote[
 [4] Deep Bach] https://www.abc.es/tecnologia/informatica/abci-inteligencia-artificial-crea-musica-estilo-bach-201801242152_noticia.html
@@ -237,7 +237,7 @@ _`DARPA Grand Challenge` (**2004**): 1 millón de dólares. Ruta de 180 kilómet
 ---
 ## Inteligencia Artística
 
-![Rembrandt](media/rembrandt.png)
+![Rembrandt](media/rembrandt.jpg)
 
 .footnote[
 [5] Rembrandt IA] https://es.gizmodo.com/una-inteligencia-artificial-pinta-un-nuevo-cuadro-de-re-1769869684
@@ -245,7 +245,7 @@ _`DARPA Grand Challenge` (**2004**): 1 millón de dólares. Ruta de 180 kilómet
 ---
 ## Inteligencia Artística
 
-![obra](media/obra.png)
+![obra](media/obra.jpg)
 .footnote[
 [6] La IA planta cara al arte] https://elpais.com/cultura/2018/10/26/actualidad/1540577952_910752.html
 
@@ -293,7 +293,7 @@ class: inverse, middle, center
 # La Neurona Artificial
 
 
-**McCulloch y Pitts** (`1943`) postulan la posibilidad de que modelar matemáticamente el cerebro pudiese conducir a avances en el tratamiento de trastornos psiquiátricos. 
+**McCulloch y Pitts** (1943) postulan la posibilidad de que modelar matemáticamente el cerebro pudiese conducir a avances en el tratamiento de trastornos psiquiátricos. 
 
 ---
 # Redes Neuronales
@@ -363,9 +363,9 @@ class: inverse, middle, center
 ---
 # Las palabras no son innocentes
 
- - Si en lugar de IA, McCarthy hubiese utilizado `Procesamiento simbólico`, `Computación analítica`, o cualquier otra expresión, no estaríamos hablando de esto.
+ - Si en lugar de IA, McCarthy hubiese utilizado "Procesamiento simbólico", "Computación analítica", o cualquier otra expresión, no estaríamos hablando de esto.
  
- - Aviones vs. Pájaros mecánicos o submarinos
+ - Aviones vs. Pájaros mecánicos o bucear vs. submarinos
 
 ---
 class: inverse, middle, center
@@ -383,7 +383,7 @@ class: middle, center
 
  - Un cluster de palomas consigue el **99%**.
  
-.
+
 
 Referencias: 
 
@@ -412,35 +412,40 @@ class: inverse, middle, center
 
 - **¿Puede una IA ser más inteligente que un ser humano?**
 
+Ya lo son. Dentro de sus ámbitos restringidos.
+
 --
 
 - **¿Pero es lo mismo?**
+
+Da igual. Lo que medimos son los resultados.
 
 --
 
 - **¿Tienen o tendrán mente?** 
  - IA “fuerte” vs. IA “débil”
 
- - Depende de las creencias que tenemos sobre nosotros mismos, por ejemplo ¿los eventos mentales son de algún modo distintos e independientes del mundo físico (`dualismo`)?
+ - Depende de las creencias que tenemos sobre nosotros mismos, por ejemplo ¿los eventos mentales son de algún modo distintos e independientes del mundo físico (dualismo)?
 
 --
 
- - Si el cerebro es una `maquina biológica` que manipula símbolos, tampoco `"piensa"`. Si pensamos nosotros, también lo hacen las computadoras.
+ - Si el cerebro es una **maquina biológica** que manipula símbolos, tampoco "piensa". Si pensamos nosotros, también lo hacen las computadoras.
  
- - Mientras no podamos `demostrar la conciencia`, no podemos afirmar que las máquinas no la posean.
+ - Mientras no podamos demostrar la conciencia, no podemos afirmar que las máquinas no la posean.
 
 ---
 # Cuestiones
 
 - **¿Puede tener libre albedrío una IA?**
 
-El libre albedrío no debería ser predecible, pero lo es. `El cerebro toma decisiones antes de que la mente sea consciente`. 
+El libre albedrío no debería ser predecible, pero lo es. La evidencia científica demuestra que 
+el cerebro toma decisiones antes de que la mente sea consciente. 
 
 --
 
 - **¿Puede “sentir” una IA?**
 
-Es sencillo construir un robot que muestre sensación de dolor, llore o diga que le duele. ¿siente dolor? ¿Pueden sentir las máquinas? ¿es importante? `¿Queremos que lo hagan?`
+Es sencillo construir un robot que muestre sensación de dolor, llore o diga que le duele. ¿siente dolor? ¿Pueden sentir las máquinas? ¿es importante? ¿Queremos que lo hagan?
 
 ---
 class: inverse, middle, center
@@ -453,7 +458,9 @@ class: inverse, middle, center
 
 - **Acuerdos Jurídicamente relevantes**
 
-`¿Debería prohibirse a las entidades no humanas involucrarse en acuerdos y contratos?`
+**¿Debería prohibirse a las entidades no humanas involucrarse en acuerdos y contratos?**
+
+De hacerlo estaríamos invalidando también el derecho mercantil y las personas jurídicas como entidades con derechos y obligaciones.
 
 --
 
@@ -465,9 +472,9 @@ class: inverse, middle, center
 
 --
 
-Si en su actividad afectan a bienes o personas deben tener recursos asociados para `compensar en caso de perjuicios`. 
+Si en su actividad afectan a bienes o personas deben tener recursos asociados para compensar en caso de perjuicios. 
 
-Podrían en tal caso `adquirirse a sí mismas`.
+Podrían en tal caso adquirirse a sí mismas. (igual que los esclavos de la antiguedad)
 
 --
 
@@ -482,21 +489,21 @@ Un gran campo para la formalización. Ya existen en EEUU sistemas de ayuda a los
 
 --
 
-`¿es necesario tener conciencia moral para delinquir?` NO. 
+**¿es necesario tener conciencia moral para delinquir?** NO. 
 
 --
 
- - `conocer las consecuencias, y`
+ - conocer las consecuencias, y
  
- - `decidir entre acciones`
+ - decidir entre acciones
 
 --
 
-`Ética computacional y agentes morales artificiales`. Es un reto tecnológico necesario (coches autónomos)
+**Ética computacional y agentes morales artificiales**. Es un reto tecnológico necesario (coches autónomos)
 
 --
 
-`A veces ser moral implica transgredir la norma`. Es crítico desarrollar e implementar regulaciones morales aplicables a una IA para guiar su comportamiento.
+A veces ser moral implica transgredir la norma. Es crítico desarrollar e implementar regulaciones morales aplicables a una IA para guiar su comportamiento.
 
 ---
 # Efectos Económicos
@@ -505,11 +512,11 @@ Un gran campo para la formalización. Ya existen en EEUU sistemas de ayuda a los
 
 --
 
- - La duda es la velocidad del cambio y las estrategias aplicadas para paliar sus efectos negativos. (5% sector agrario en España)
+ - La duda es la velocidad del cambio y las estrategias aplicadas para paliar sus efectos negativos. (5% sector agrario en España en la actualidad)
 
 --
 
- - La IA es sólo otro avance en la automatización. Pero su efecto es multiplicativo. Aproximadamente el `65% de los trabajos desaparecerán en las próximas décadas`. Cuanto menos intelectual y más rutinario, peor.
+ - La IA es sólo otro avance en la automatización. Pero su efecto es multiplicativo. Aproximadamente el **65% de los trabajos desaparecerán en las próximas décadas**. Cuanto menos intelectual y más rutinario, peor.
  
  (Estudio de la Universidad de Oxford https://www.bbc.com/mundo/noticias-38930099)
 
@@ -523,9 +530,9 @@ Un gran campo para la formalización. Ya existen en EEUU sistemas de ayuda a los
 
 --
 
-En realidad son peores los efectos secundarios no planificados. Como el caso del `automóvil`. 
+En realidad son peores los efectos secundarios no planificados. Como el caso del automóvil. 
 
-`Estupidez Artificial` provocada por **Estupidez Natural**.
+**Estupidez Artificial** provocada por **Estupidez Natural**.
 
 **¿Podremos copiarnos a una computadora?**
 
@@ -540,56 +547,3 @@ class: inverse, middle, center
 class: center, middle
 
 ![terminate](media/terminatorthumb.gif)
-
----
-class: inverse, center, middle
-
-# Gracias!
-
-![thanks](media/thanks.gif)
-
-
-
-
----
-# Cuestiones y Provocaciones
-**_“Actualmente, las máquinas resuelven problemas de acuerdo con los principios que hemos establecidos en ellas. Dentro de poco quizá aprendamos a ponerlas a trabajar en problemas específicos de mejorar su capacidad de resolver problemas. Una vez traspasado cierto umbral, esto nos llevaría a una espiral de aceleración y sería difícil perfeccionar un regulador fiable para refrenarlo”._**
-                                                            Marvin Minsky
---
-### La Singularidad, y otros "ismos"
-**En el momento en que las máquinas se puedan "rehacer" a sí mismas. Se producirá la explosión de la inteligencia.** 
-
-`Futurismo` (Ray Kurzweil), director de ingeniería de Google en 2012 supone que ocurrirá en 2045. Hasta ahora las mejoras han sido sobre todo en hardware y disponibilidad de datos en formato procesable. Poco probable a corto plazo, y será advertida antes.
-
-`Transhumanismo`, diseñaremos repuestos para nuestros propios órganos. ¿qué porcentaje de repuestos nos alejará de la categoría humana?
-
----
-background-image: url(media/exmachinapek.png)
-background-position: 50% 50%
-class: center, bottom
-# Ex Machina
----
-background-image: url(media/rfkpk.jpg)
-background-position: 50% 50%
-class: center, bottom
-# Robot & Frank
- 
----
-# Algunos Logros
-
-- La Universidad de California en Berkeley, usa técnicas de Machine Learning para leer mentes. (No Lie MRI)
-
-- Terapia emocional con veteranos de guerra.
-
-- Cuidado de ancianos (Japón), eliminación de plagas con minibots.
-
-- Opportunity / Curiosity / Fukushima
-
-
----
-
-## El Concepto
-
- - Jerry Fodor y la `Modularidad fisiológica` (**1980**): 
-              
- .pull-right[![Fodor](media/fodor.jpg)] 
